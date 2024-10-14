@@ -54,7 +54,7 @@ Players can use collected coins to upgrade:
 ## How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/dungeon-quest.git
+   git clone https://github.com/RobertoGrabovac/Dungeon.git
    ```
 2. Open the solution in Visual Studio or your preferred IDE.
 3. Build and run the project.
