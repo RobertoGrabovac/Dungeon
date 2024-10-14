@@ -43,6 +43,7 @@ Players can use collected coins to upgrade:
 - **Language**: C#
 - **Framework**: .NET
 - **Dungeon Generation**: Basic BSP algorithm for procedural level creation.
+- **Graphics Library**: [SFML](https://www.sfml-dev.org/) (Simple and Fast Multimedia Library) for handling graphics, window management, and input.
 - **Collision Detection**: Implemented using AABB (Axis-Aligned Bounding Box) collision detection.
 - **Main Classes**:
   - `DungeonGenerator.cs`: Handles random dungeon generation.
