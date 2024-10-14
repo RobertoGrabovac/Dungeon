@@ -9,6 +9,7 @@ Dungeon is a C# game developed as part of the *Computer Lab 3* course. Inspired 
 - Survive enemy attacks with a starting life count of 3.
 
 ## Gameplay
+- **Video**: [Dungeon Game](https://drive.google.com/file/d/1kUc6wOhR7BvyukDUpIWG2HejnmEwTUjQ/view?usp=sharing)
 - **Player Movement**: Use `W`, `A`, `S`, `D` keys to move.
 - **Attacking Enemies / Opening Chests**: Left-click on the enemy or chest.
 - **Lighting Torches**: Approach the torch stand and left-click to light it.
