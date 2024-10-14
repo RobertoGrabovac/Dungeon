@@ -1,7 +1,7 @@
 
-# Dungeon Quest
+# Dungeon
 
-Dungeon Quest is a C# game developed as part of the *Computer Lab 3* course. Inspired by [Rogue Fable III](https://justin-wang123.itch.io/rogue-fable-iii), this game challenges players to explore procedurally generated dungeons, defeat enemies, gather treasure, and progress through increasingly difficult levels.
+Dungeon is a C# game developed as part of the *Computer Lab 3* course. Inspired by [Rogue Fable III](https://justin-wang123.itch.io/rogue-fable-iii), this game challenges players to explore procedurally generated dungeons, defeat enemies, gather treasure, and progress through increasingly difficult levels.
 
 ## Game Objective
 - Collect as many coins and points as possible.
